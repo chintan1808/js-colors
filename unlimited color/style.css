@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: aliceblue;
+}
+
+#start {
+    border-radius: 1000px;
+    font-size: medium;
+}
+
+#stop{
+    border-radius: 1000px;
+    font-size: medium;
+}
